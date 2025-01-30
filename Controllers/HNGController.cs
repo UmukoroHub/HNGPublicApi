@@ -14,7 +14,7 @@ namespace HNGPublicApi.Controllers
             {
                 email = "doghenerewego@gmail.com",
                 current_datetime = DateTime.UtcNow.ToString("o"),
-                github_url = "https://github.com/UmukoroHub?tab=repositories"
+                github_url = "https://github.com/UmukoroHub/HNGPublicApi/"
             };
 
             return Ok(result);
