@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace HNGPublicApi.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("/")]
     [ApiController]
     public class HNGController : ControllerBase
     {
