@@ -3,7 +3,7 @@
 A simple public API built with **ASP.NET Core** for the HNGx Internship Stage 0 Task. This API returns basic information, including my email, my current datetime in ISO 8601 format, and my GitHub repository URL.
 
 # 🚀 Live API URL
-[https://hngpublicapi.up.railway.app/](https://hngpublicapi.up.railway.app/)
+[https://hngpublicapi-production.up.railway.app](https://hngpublicapi-production.up.railway.app)
 
 ---
 
