@@ -28,6 +28,9 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+// **Apply CORS middleware before authorization**
+app.UseCors("AllowAll");
+
 app.UseAuthorization();
 
 app.MapControllers();
