@@ -23,3 +23,4 @@ A simple public API built with **ASP.NET Core** for the HNGx Internship Stage 0 
    ```sh
    git clone https://github.com/UmukoroHub/HNGPublicApi
    cd HNGPublicApi
+https://hng.tech/hire/csharp-developers
